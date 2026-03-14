@@ -6,6 +6,10 @@ I just couldn’t find one that felt actively maintained, so I made this.
 
 (That said, I can’t guarantee this gem will stay well-maintained forever.)
 
+## Supported Versions
+
+- Rails 7.0, 7.1, 8.0, 8.1
+
 ## Installation
 Add this line to your application's Gemfile:
 
